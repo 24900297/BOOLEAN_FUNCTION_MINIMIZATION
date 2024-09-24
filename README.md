@@ -70,6 +70,7 @@ endmodule
 
 
 **RTL realization**
+
 ![EX2 LOGIC DIAGRAM (1)](https://github.com/user-attachments/assets/e1134829-3f1f-412e-a721-b3e16835c394)
 
 **Logic symbol & Truthtable:**
