@@ -73,6 +73,7 @@ endmodule
 ![EX2 LOGIC DIAGRAM (1)](https://github.com/user-attachments/assets/e1134829-3f1f-412e-a721-b3e16835c394)
 
 **Logic symbol & Truthtable:**
+
 ![EX2 TABLE F1](https://github.com/user-attachments/assets/8793e451-e24e-4161-91b5-cb22c4ff1b13)
 ![EX2 TABLE](https://github.com/user-attachments/assets/414c5025-e6e0-443c-a9b1-5c66d19e7a66)
 
