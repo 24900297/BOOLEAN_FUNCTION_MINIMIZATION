@@ -36,6 +36,7 @@ RegisterNumber: 24900297
 
 
 **Program:**
+
 module Boolean_min(A,B,C,D,W,X,Y,Z,F1,F2);
 
 input A,B,C,D,W,X,Y,Z;
